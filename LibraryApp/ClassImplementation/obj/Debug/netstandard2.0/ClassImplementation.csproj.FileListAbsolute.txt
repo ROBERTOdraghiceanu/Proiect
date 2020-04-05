@@ -1,0 +1,8 @@
+C:\Users\serba\source\repos\LibraryApp\ClassImplementation\bin\Debug\netstandard2.0\ClassImplementation.deps.json
+C:\Users\serba\source\repos\LibraryApp\ClassImplementation\bin\Debug\netstandard2.0\ClassImplementation.dll
+C:\Users\serba\source\repos\LibraryApp\ClassImplementation\bin\Debug\netstandard2.0\ClassImplementation.pdb
+C:\Users\serba\source\repos\LibraryApp\ClassImplementation\obj\Debug\netstandard2.0\ClassImplementation.csprojAssemblyReference.cache
+C:\Users\serba\source\repos\LibraryApp\ClassImplementation\obj\Debug\netstandard2.0\ClassImplementation.AssemblyInfoInputs.cache
+C:\Users\serba\source\repos\LibraryApp\ClassImplementation\obj\Debug\netstandard2.0\ClassImplementation.AssemblyInfo.cs
+C:\Users\serba\source\repos\LibraryApp\ClassImplementation\obj\Debug\netstandard2.0\ClassImplementation.dll
+C:\Users\serba\source\repos\LibraryApp\ClassImplementation\obj\Debug\netstandard2.0\ClassImplementation.pdb
